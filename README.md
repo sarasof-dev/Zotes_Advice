@@ -8,6 +8,7 @@ This is a small fan project created for Python practice. It features Zote the Mi
 
 ## Screenshots
 ![Intro](screenshots/Intriduction.png)
+
 ![Precept](screenshots/Precepts.png)
 
 ## Features
