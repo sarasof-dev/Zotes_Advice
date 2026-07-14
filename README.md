@@ -7,7 +7,7 @@ A simple Python fan project featuring Zote the Mighty and his 57 Precepts from *
 This is a small fan project created for Python practice. It features Zote the Mighty in his room in Godhome and includes all of his Precepts.
 
 ## Screenshots
-![Intro](screenshots/Intriduction.png)
+![Intro](screenshots/Introduction.png)
 
 ![Precept](screenshots/Precepts.png)
 
